@@ -1,4 +1,4 @@
-# 🚀 Microsoft Entra ID Identity Lifecycle Automation
+# 🚀 Microsoft Entra ID Identity Lifecycle Automation with Microsoft Graph PowerShell SDK
 
 Enterprise Identity Lifecycle Automation using **PowerShell 7** and the **Microsoft Graph PowerShell SDK**.
 
